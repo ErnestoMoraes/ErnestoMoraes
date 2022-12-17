@@ -26,7 +26,7 @@
     <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 ErnestoMoraes/ErnestoMoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
