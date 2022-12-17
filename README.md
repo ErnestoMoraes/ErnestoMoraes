@@ -1,4 +1,4 @@
-## Olá, Eu sou Ernesto!! 🖐️🖐
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ernesto+Moraes;Tenho+23+anos;Eu+sou+de+Beberibe/Ceará;Sou+Graduando+em+Ciência+da+Computação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -6,6 +6,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErnestoMoraes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoMoraes&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErnestoMoraes&bg_color=0d1117&color=ffffff&line=1823bf&point=5ea1e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ## Tecnologias que eu uso no meu dia
 
