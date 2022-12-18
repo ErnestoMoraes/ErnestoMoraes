@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Ernesto+Moraes;Tenho+23+anos;Eu+sou+de+Beberibe/Ceará;Sou+Graduando+em+Ciência+da+Computação;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
+## Sobre mim
+Desenvolvedor com alguns anos de experiência no fornecimento de soluções de tecnologia. <br>
+Proativo e com atitude, atento aos detalhes e a qualidade. <br>
+Sempre buscando aprimorar os processos de desenvolvimento e comunicação. <br>
+Durante minha trajetória profissional já atuei em alguns projetos, dentre eles, um focado no desenvolvimento mobile em Flutter. <br><br>
 
 <div align="center">
   <a href="https://github.com/ErnestoMoraes">
