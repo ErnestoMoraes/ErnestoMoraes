@@ -4,7 +4,7 @@
 Desenvolvedor com alguns anos de experiência no fornecimento de soluções de tecnologia. <br>
 Proativo e com atitude, atento aos detalhes e a qualidade. <br>
 Sempre buscando aprimorar os processos de desenvolvimento e comunicação. <br>
-Durante minha trajetória profissional já atuei em alguns projetos, dentre eles, um focado no desenvolvimento mobile em Flutter. <br><br>
+Durante minha trajetória profissional já atuei em alguns projetos, dentre eles, um focado no desenvolvimento mobile em Flutter. <br>
 
 ## Tecnologias que eu uso no meu dia
 
@@ -16,9 +16,7 @@ Durante minha trajetória profissional já atuei em alguns projetos, dentre eles
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">  
-</div><br>
-
-## Dashboard
+</div><br><br>
 
 <div align="center">
   <a href="https://github.com/ErnestoMoraes">
@@ -26,8 +24,10 @@ Durante minha trajetória profissional já atuei em alguns projetos, dentre eles
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoMoraes&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
+## Contribuições
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErnestoMoraes&bg_color=0d1117&color=ffffff&line=1823bf&point=5ea1e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+ 
 ![snake gif](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
