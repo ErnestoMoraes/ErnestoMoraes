@@ -6,14 +6,6 @@ Proativo e com atitude, atento aos detalhes e a qualidade. <br>
 Sempre buscando aprimorar os processos de desenvolvimento e comunicação. <br>
 Durante minha trajetória profissional já atuei em alguns projetos, dentre eles, um focado no desenvolvimento mobile em Flutter. <br><br>
 
-<div align="center">
-  <a href="https://github.com/ErnestoMoraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErnestoMoraes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoMoraes&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErnestoMoraes&bg_color=0d1117&color=ffffff&line=1823bf&point=5ea1e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
@@ -26,6 +18,18 @@ Durante minha trajetória profissional já atuei em alguns projetos, dentre eles
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">  
 </div><br>
 
+## Dashboard
+
+<div align="center">
+  <a href="https://github.com/ErnestoMoraes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErnestoMoraes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoMoraes&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErnestoMoraes&bg_color=0d1117&color=ffffff&line=1823bf&point=5ea1e8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+![snake gif](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
+
 ## Contatos
 
 <div>
@@ -35,8 +39,6 @@ Durante minha trajetória profissional já atuei em alguns projetos, dentre eles
     <a href="https://telegram.me/ernesto_moraes" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
     <a href="https://web.whatsapp.com/send?phone=5585997457110" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
-
-![snake gif](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 ErnestoMoraes/ErnestoMoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
