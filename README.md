@@ -26,13 +26,7 @@ Durante minha trajetória profissional já atuei em alguns projetos, dentre eles
 
 ## Contribuições
 
-<div align="center">
-
-  ![Snake animation](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
- 
-![snake gif](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos
 
