@@ -6,6 +6,17 @@ Proativo e com atitude, atento aos detalhes e a qualidade. <br>
 Sempre buscando aprimorar os processos de desenvolvimento e comunicação. <br>
 Durante minha trajetória profissional já atuei em alguns projetos, dentre eles, um focado no desenvolvimento mobile em Flutter. <br>
 
+<div>
+  <>
+  Desenvolvedor com alguns anos de experiência no fornecimento de soluções de tecnologia. <br>
+  Proativo e com atitude, atento aos detalhes e a qualidade. <br>
+  Sempre buscando aprimorar os processos de desenvolvimento e comunicação. <br>
+  Durante minha trajetória profissional já atuei em alguns projetos, dentre eles, um focado no desenvolvimento mobile em Flutter. <br>
+  </>
+  <img height="180em" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png"/>
+
+</div>
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
