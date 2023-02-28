@@ -1,6 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ernesto+Moraes;I+am+23+yers+old;I+am+from+Beberibe/Ceará;I+am+an+undergraduate+student+in+computer+science;Welcome!+:%29)](https://git.io/typing-svg)
+<div  align="center"> 
+  <h1>Hi dear 👋, I'm Ernesto Moraes</h1>
+</div>
 
-# About me
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png">
