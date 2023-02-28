@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Ernesto+Moraes;I+am+23+yers+old;I+am+from+Beberibe/Ceará;I+am+an+undergraduate+student+in+computer+science;Welcome!+:%29)](https://git.io/typing-svg)
 
 # About me
-Hello and welcome to my GitHub repository! Here you will find some of my college works, personal projects, and programming-related studies.
-
-I am a beginner in software development, but I am passionate about mobile and Flutter technology. I am always looking to learn and improve regarding programming techniques and best practices.
-
-I hope my projects can help you in some way on your own learning journey. Feel free to explore and provide feedback or suggestions. I am always open to new learning and collaboration opportunities.
-
-Thank you for visiting my GitHub repository, and I hope you find something that can be useful to you. If you have any questions or comments, please do not hesitate to contact me. I am always available to help and learn.
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png">
+    <P align="left">Hello and welcome to my GitHub repository! Here you will find some of my college works, personal projects, and programming-related studies.</P>
+    <P align="left">I am a beginner in software development, but I am passionate about mobile and Flutter technology. I am always looking to learn and improve regarding programming techniques and best practices.</P>
+    <P align="left">I hope my projects can help you in some way on your own learning journey. Feel free to explore and provide feedback or suggestions. I am always open to new learning and collaboration opportunities.</P>
+    <P align="left">Thank you for visiting my GitHub repository, and I hope you find something that can be useful to you. If you have any questions or comments, please do not hesitate to contact me. I am always available to help and learn.</P>
+   </div>
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErnestoMoraes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
@@ -38,34 +40,6 @@ Thank you for visiting my GitHub repository, and I hope you find something that 
     <a href="https://web.whatsapp.com/send?phone=5585997457110" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
 
 <!---
 Desenvolvedor com alguns anos de experiência no fornecimento de soluções de tecnologia. <br>
