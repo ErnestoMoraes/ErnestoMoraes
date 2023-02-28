@@ -7,7 +7,7 @@
     <P align="left">Hello and welcome to my GitHub repository! Here you will find some of my college works, personal projects, and programming-related studies.</P>
     <P align="left">I am a beginner in software development, but I am passionate about mobile and Flutter technology. I am always looking to learn and improve regarding programming techniques and best practices.</P>
     <P align="left">I hope my projects can help you in some way on your own learning journey. Feel free to explore and provide feedback or suggestions. I am always open to new learning and collaboration opportunities.</P>
-    <P align="left">Thank you for visiting my GitHub repository, and I hope you find something that can be useful to you. If you have any questions or comments, please do not hesitate to contact me. I am always available to help and learn.</P>
+    <P align="left">Thank you for visiting my GitHub repository, and I hope you find something that can be useful to you. If you have any questions or comments, please do not hesitate to contact me.</P>
    </div>
 </div>
 
