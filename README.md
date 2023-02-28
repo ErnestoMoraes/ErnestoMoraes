@@ -12,7 +12,7 @@
    </div>
 </div><br>
 
-## Technologies I use in my daily life
+## Studying and using nomoment
 
 <div style="display: inline_block">
   <img align="center"  height="30" width="100" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
