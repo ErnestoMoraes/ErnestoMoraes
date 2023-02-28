@@ -28,7 +28,7 @@ Thank you for visiting my GitHub repository, and I hope you find something that 
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErnestoMoraes&theme=gotham)
 
-## Contatos
+## Contact information
 
 <div>
   <a href="https://instagram.com/ernestomoraes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
