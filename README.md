@@ -38,6 +38,35 @@ Thank you for visiting my GitHub repository, and I hope you find something that 
     <a href="https://web.whatsapp.com/send?phone=5585997457110" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   </div>
+    
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: work.luigi.fonseca@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
+</div>
+
 <!---
 Desenvolvedor com alguns anos de experiência no fornecimento de soluções de tecnologia. <br>
 Proativo e com atitude, atento aos detalhes e a qualidade. <br>
