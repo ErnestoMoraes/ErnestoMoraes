@@ -38,11 +38,6 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErnestoMoraes&theme=gotham)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErnestoMoraes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoMoraes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
 ## Contact information
 
 <div>
@@ -65,6 +60,12 @@ Durante minha trajetória profissional já atuei em alguns projetos, dentre eles
 <div>
   <img height="180em" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png"/>
 </div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErnestoMoraes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoMoraes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
 
 ErnestoMoraes/ErnestoMoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
