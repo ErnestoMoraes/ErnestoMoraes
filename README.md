@@ -43,7 +43,6 @@
 ## Contact information
 
 <div>
-  <a href="https://instagram.com/ernestomoraes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joseernestosantosmoraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ernestomoraesbcc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://telegram.me/ernesto_moraes" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
@@ -52,10 +51,7 @@
 
 
 <!---
-Desenvolvedor com alguns anos de experiência no fornecimento de soluções de tecnologia. <br>
-Proativo e com atitude, atento aos detalhes e a qualidade. <br>
-Sempre buscando aprimorar os processos de desenvolvimento e comunicação. <br>
-Durante minha trajetória profissional já atuei em alguns projetos, dentre eles, um focado no desenvolvimento mobile em Flutter. <br>
+  <a href="https://instagram.com/ernestomoraes_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/ErnestoMoraes/ErnestoMoraes/blob/output/github-contribution-grid-snake.svg)
 
@@ -67,8 +63,4 @@ Durante minha trajetória profissional já atuei em alguns projetos, dentre eles
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErnestoMoraes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoMoraes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-
-ErnestoMoraes/ErnestoMoraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
