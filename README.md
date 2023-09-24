@@ -1,10 +1,10 @@
 <div  align="center"> 
-  <h1>Hi dear 👋, I'm Ernesto Moraes</h1>
+  <h1>Hi, I'm Ernesto Moraes</h1>
 </div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png">
+<!--     <img align="left" height="250" alt="coding-time" src="https://github.com/ErnestoMoraes/ErnestoMoraes/blob/main/.github/assets/octocat.png"> -->
     <P align="left">Hello and welcome to my GitHub repository! Here you will find some of my college works, personal projects, and programming-related studies.</P>
     <P align="left">I am a beginner in software development, but I am passionate about mobile and Flutter technology. I am always looking to learn and improve regarding programming techniques and best practices.</P>
     <P align="left">I hope my projects can help you in some way on your own learning journey. Feel free to explore and provide feedback or suggestions. I am always open to new learning and collaboration opportunities.</P>
